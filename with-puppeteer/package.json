@@ -13,6 +13,8 @@
   "author": "jlandure",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^6.0.0"
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8"
   }
 }
